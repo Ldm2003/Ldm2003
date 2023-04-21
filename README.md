@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Ldm2003/Ldm2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Heyas, My name is Leonardo Batista de Macedo. I'm from Brazil 👋
 
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=dark" />](https://twitter.com/Ldmlol2003)[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=dark%22%3E](https://www.facebook.com/ldmleonardo/)
