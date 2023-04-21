@@ -2,10 +2,8 @@
 
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=dark" />](https://twitter.com/Ldmlol2003)[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=dark%22%3E](https://www.facebook.com/ldmleonardo/) />]
  
- 
- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=dark" />](https://twitter.com/GabrieldeMace12) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=dark">](https://www.facebook.com/gabriel.macedosantos/)
+ [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=dark" />](https://twitter.com/Ldmlol2003) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=dark">](https://www.facebook.com/ldmleonardo/)
  
  
 ##
